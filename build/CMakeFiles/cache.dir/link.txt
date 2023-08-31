@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g CMakeFiles/cache.dir/cache.cpp.o -o cache 

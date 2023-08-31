@@ -1,0 +1,29 @@
+{
+    "input": {
+        "history": "你好[SEP]你好!很高兴与你交流![SEP]狂飙的导演是谁呀",
+        "bot_profile": "我是达摩院的语言模型ChatPLUG， 是基于海量数据训练得到。",
+        "knowledge": "《狂飙》由徐纪周执导的。《狂飙》的导演徐纪周也是编剧之一，代表作品有《永不磨灭的番号》《特战荣耀》《心理罪之城市之光》《杀虎口》《胭脂》等",
+        "user_profile": "None"
+    },
+    "parameters": {
+        "preprocess_params": {
+            "max_encoder_length": 380,
+            "context_turn": 3
+        },
+        "forward_params": {
+            "min_length": 10,
+            "max_length": 512,
+            "num_beams": 3,
+            "temperature": 0.8,
+            "do_sample": false,
+            "early_stopping": true,
+            "top_k": 50,
+            "top_p": 0.8,
+            "repetition_penalty": 1.2,
+            "length_penalty": 1.2,
+            "no_repeat_ngram_size": 6
+        }
+    }
+}
+
+{"input": "1944年毕业于北大的名古屋铁道会长谷口清太郎等人在日本积极筹资，共筹款2.7亿日元，参加捐款的日本企业有69家。","parameters": {"schema": "{\"人物\": null, \"地理位置\": null, \"组织机构\": null}"}}

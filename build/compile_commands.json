@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/csq/O/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -o CMakeFiles/CMakeCXXCompilerId.dir/build/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp.o -c /home/csq/O/Cpp/build/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+  "file": "/home/csq/O/Cpp/build/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+},
+{
+  "directory": "/home/csq/O/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -o CMakeFiles/cache.dir/cache.cpp.o -c /home/csq/O/Cpp/cache.cpp",
+  "file": "/home/csq/O/Cpp/cache.cpp"
+},
+{
+  "directory": "/home/csq/O/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -o CMakeFiles/tmp.dir/tmp.cpp.o -c /home/csq/O/Cpp/tmp.cpp",
+  "file": "/home/csq/O/Cpp/tmp.cpp"
+}
+]

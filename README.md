@@ -1,0 +1,1 @@
+Some solutions in hackerrank function programming.
